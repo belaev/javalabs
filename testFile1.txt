@@ -1,0 +1,1 @@
+{"infoMatrix":[[-14,-3,-19],[1,-11,7],[9,-1,-6]],"infoCountRows":3,"infoCountColumns":3,"infoMaxElement":9,"infoMinElement":-19,"infoSumElements":-37}
